@@ -1,0 +1,1259 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#f28281",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#3d8eb9",
+        "titleFont": "Roboto",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 84,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1366.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#28324e",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "106年全國工業類科實作競賽",
+          "caption": ""
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            },
+            "FONT": {
+              "font-size": "30px",
+              "text-align": "center",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "H4": {
+              "font-size": "30px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            "P": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-1l",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "profile-male",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title1": "<font color=\"#000000\">參賽人數</font>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "車床組： 30名<br>模具組：30名<br>（若報名人數超出額度，<br>則由初審委員進行初審篩選）<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page4.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title2": "選手資格",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "全國工業類科在學學生，須具有下列證明至少其中之一，並且由各校推薦優先序位。",
+          "button2": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "bookmark",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title3": "所有參賽選手皆可獲得參賽證明",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#bcd2ee",
+              "border-color": "#bcd2ee"
+            },
+            "H4": {
+              "font-size": "48px",
+              "color": "#00a885"
+            },
+            "FONT": {
+              "color": "#2969b0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-5",
+          "_params": {
+            "iconsBgColor": "#bcd2ee",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-11-2000x1333.jpg",
+            "bgColor": "#bcd2ee",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "tools-2",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#2969b0"
+            }
+          },
+          "title1": "<font color=\"#000000\">車床組報名</font>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "tools",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "title2": "模具組報名",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "20px"
+            },
+            ".mbr-section-subtitle DIV": {
+              "text-align": "right"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "color": "#cccccc"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#fcc4b0",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">競賽時刻表</a> ",
+          "title": "重要日程",
+          "text": "<span style=\"font-style: normal;\">准考證將於106年10月13日前寄出<br>若於106年10月18日前尚未收到准考證<br>請來電告知， 並將於106年10月20日前再行寄出。</span><br><br><div>報名收件地址： &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>632雲林縣虎尾鎮文化路64號 虎尾科技大學</div><div>職涯發展中心 張芳瑜 小姐收</div><div>Tel : (05)6313081</div><div>Email : ksa19382@nfu.edu.tw</div>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e"
+            },
+            ".lead P": {
+              "color": "#2b0680",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-2000x1333.jpg",
+            "bgColor": "#d3c1c3",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#fbf7ae",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "參賽試題<br>",
+          "text": "<p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">參照全國高級中等學校工業類學生技藝競賽及技能檢定術科車床與模具試題。</span><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#635180",
+              "font-size": "20px"
+            },
+            "FONT": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#553982"
+            }
+          },
+          "_anchor": "msg-box4-a",
+          "_params": {
+            "imageSize": "33",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1194.jpg",
+            "bgColor": "#bed8d4",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#c1c1c1",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/explain-icon-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<font color=\"#000000\">競賽獎金</font>",
+          "text": "<p>分車床組及模具組二組，競賽獎金(學生+培訓老師，分配比1:4)如下：</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">第一名: 各組1名， 獎金100,000元+獎狀。\n<br>第二名: 各組1名， 獎金50,000元+獎狀。\n<br>第三名: 各組1名， 獎金30,000元+獎狀。\n<br>優等: 各組3名，獎狀。<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">嘉獎: 各組6名，獎狀。</span></p><p><i>＊競賽獲獎加工工件，歸屬友嘉實業集團，作品放置於友嘉實業集團精科廠show room展示(40852台中市南屯區精科路12號)。</i><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#00a885",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "msg-box5-r",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1330.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#c1c1c1",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/address1-1400x1031.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "競賽地點",
+          "text": "勞動部勞動力發展署雲嘉南分署(臺南官田職業訓練場) 機械館<br>地址：72042台南市官田區工業路40號<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">前往方式</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "buttons1-13",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"/downloads/106全國工業類科實作競賽簡章V2.doc\" data-toolbar=\"-mbrBtnMove\">下載競賽簡章</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">下載住宿資訊</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "SPAN": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-1k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#fac51c"
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>主辦單位</b></span></font><br><font color=\"#7c7c7c\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>友嘉集團<br>國立虎尾科技大學<br>勞動部勞動力發展署雲嘉南分署<br>",
+          "text2": "<font color=\"#000000\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>協辦單位</b></span></font><font color=\"#000000\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\n臺中市立臺中工業高級中等學校<br>\n國立嘉義高級工業職業學校<br>\n國立彰化師範大學附屬高級工業職業學校<br>國立虎尾高級農工職業學校<br>",
+          "text3": "<font face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡窗口</b></span></font><font face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>虎尾科技大學職涯發展中心  張芳瑜 小姐<br>Tel : (05) 6313081<br>Email : ksa19382@nfu.edu.tw<br>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "初審公告",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": false
+          },
+          "title": "初審結果公告",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#d14841",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-1i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "將於106年10月11日(三)公告"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "SPAN": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-1m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#fac51c"
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>主辦單位</b></span></font><br><font color=\"#7c7c7c\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>友嘉集團<br>國立虎尾科技大學<br>勞動部勞動力發展署雲嘉南分署<br>",
+          "text2": "<font color=\"#000000\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>協辦單位</b></span></font><font color=\"#000000\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\n臺中市立臺中工業高級中等學校<br>\n國立嘉義高級工業職業學校<br>\n國立彰化師範大學附屬高級工業職業學校<br>國立虎尾高級農工職業學校<br>",
+          "text3": "<font face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡窗口</b></span></font><font face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>虎尾科技大學職涯發展中心  張芳瑜 小姐<br>Tel : (05) 6313081<br>Email : ksa19382@nfu.edu.tw<br>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "競賽地點",
+        "meta_descr": "Web Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eff7f6",
+            "showMeta": true
+          },
+          "title": "<font color=\"#000000\">競賽地點前往方式</font>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577"
+            },
+            "H3": {
+              "color": "#2969b0"
+            },
+            "H4": {
+              "color": "#3d8eb9"
+            },
+            "SPAN": {
+              "color": "#475577"
+            },
+            "LI": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f5eff7"
+          },
+          "text": "<h3>搭乘火車者：</h3><ul><li><span style=\"font-size: 1.07rem; font-weight: 300; font-family: Raleway, sans-serif; line-height: 1.5;\">請於</span><b style=\"color: rgb(71, 85, 119); font-size: 1.07rem; font-family: Raleway, sans-serif; line-height: 1.5;\">隆田火車站</b><span style=\"font-size: 1.07rem; font-weight: 300; font-family: Raleway, sans-serif; line-height: 1.5;\">下車（區間車、復興號及莒光號）。</span></li></ul><p><br></p><h3>自行開車者：\n</h3><p><br></p><h4>北上：</h4><ol><li>中山高永康交流道下轉台一號省道至官田工業區內。</li><li><span style=\"color: rgb(71, 85, 119); font-size: 1.07rem; line-height: 1.5;\">南二高烏山頭交流道下左轉，前行至T字路口7-11超商左轉後前行至第一個紅綠燈右轉，直行約2公里進入官田工業區，依指標指示行進即可到達（本分署位置接近工業區內中油加油站及郵局）。</span></li></ol><p><br></p><h4>南下：</h4><ol><li>中山高水上交流道或新營交流道下，轉台一號省道至官田工業區內。</li><li><span style=\"color: rgb(71, 85, 119); font-size: 1.07rem; line-height: 1.5;\">南二高烏山頭交流道下右轉，前行至T字路口7-11超商左轉後前行至第一個紅綠燈右轉，直行約2公里進入官田工業區，依指標指示行進即可到達（本分署位置接近工業區內中油加油站及郵局）。</span></li></ol>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box5-22",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/address2-2000x1366.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "雲嘉南分屬機械館位置圖",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#f7f4ef",
+            "googleMap": {
+              "address": "台南市官田區工業路40號",
+              "placeId": "Eik3MjDlj7DngaPlj7DljZfluILlrpjnlLDljYDlt6Xmpa3ot680MOiZnw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "SPAN": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-1m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#fac51c"
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>主辦單位</b></span></font><br><font color=\"#7c7c7c\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>友嘉集團<br>國立虎尾科技大學<br>勞動部勞動力發展署雲嘉南分署<br>",
+          "text2": "<font color=\"#000000\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>協辦單位</b></span></font><font color=\"#000000\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\n臺中市立臺中工業高級中等學校<br>\n國立嘉義高級工業職業學校<br>\n國立彰化師範大學附屬高級工業職業學校<br>國立虎尾高級農工職業學校<br>",
+          "text3": "<font face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡窗口</b></span></font><font face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>虎尾科技大學職涯發展中心  張芳瑜 小姐<br>Tel : (05) 6313081<br>Email : ksa19382@nfu.edu.tw<br>"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "競賽時程",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#b2f7ef",
+            "showMeta": false
+          },
+          "title": "競賽時程",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "H4": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content6-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<h4>106年10月27日<br>(星期五)</h4><p>9:00-9:20  參賽隊伍報導</p><p><br></p><p>9:20-10:00  開幕式</p><p><br></p><p>10:00-11:30  試機</p><p><br></p><p>11:30-12:45  休息</p><p><br></p><p>12:45-13:00  競賽報導（上半場）</p><p><br></p><p>13:00-17:00  實作競賽（上半場，共4小時）</p><p><br></p><p>17:00  上半場比賽結束</p>",
+          "text2": "<h4>106年10月28日<br>(星期六)</h4><p>7:45-8:00  競賽報到（下半場）</p><p><br></p><p>8:00-12:00  實作競賽(下半場，共4小時)</p><p><br></p><p>12:00  下半場比賽結束</p><p><br></p><p>12:00-15:00  裁判評分</p><p><br></p><p>15:00-17:00  頒獎典禮 閉幕式</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "content1-1e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;＊競賽選手報到請攜帶<b>學生證</b>及<b>准考證</b>； 培訓老師請攜帶<b>身分證</b>。</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "SPAN": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-1m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#fac51c"
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>主辦單位</b></span></font><br><font color=\"#7c7c7c\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>友嘉集團<br>國立虎尾科技大學<br>勞動部勞動力發展署雲嘉南分署<br>",
+          "text2": "<font color=\"#000000\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>協辦單位</b></span></font><font color=\"#000000\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\n臺中市立臺中工業高級中等學校<br>\n國立嘉義高級工業職業學校<br>\n國立彰化師範大學附屬高級工業職業學校<br>國立虎尾高級農工職業學校<br>",
+          "text3": "<font face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡窗口</b></span></font><font face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>虎尾科技大學職涯發展中心  張芳瑜 小姐<br>Tel : (05) 6313081<br>Email : ksa19382@nfu.edu.tw<br>"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "選手資格",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": false
+          },
+          "title": "選手資格",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "25px"
+            },
+            "H4": {
+              "font-size": "30px"
+            },
+            "H1": {
+              "font-size": "20px",
+              "color": "#d14841",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<h1><span style=\"font-weight: normal;\">全國工業類科在學學生，須具有下列證明至少其中之一，並且由各校推薦優先序位。</span></h1><h1><span style=\"font-weight: normal;\">檢附資料：在校最近一學期實習成績、其他有利技能之證明</span></h1>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title FONT": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "25px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "25px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "features2-1t",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title1": "全國工業類科學生技藝競賽參賽證明",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "車床及模具職種，請附上參賽證明",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "mobile",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title2": "乙級證照",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "車床、模具相關之證照",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title3": "<font color=\"#000000\">丙級證照</font>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "車床、模具相關之證照",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "全國技能競賽參賽證明",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "車床、模具相關之證照",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "SPAN": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-1m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#fac51c"
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>主辦單位</b></span></font><br><font color=\"#7c7c7c\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>友嘉集團<br>國立虎尾科技大學<br>勞動部勞動力發展署雲嘉南分署<br>",
+          "text2": "<font color=\"#000000\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>協辦單位</b></span></font><font color=\"#000000\" face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\n臺中市立臺中工業高級中等學校<br>\n國立嘉義高級工業職業學校<br>\n國立彰化師範大學附屬高級工業職業學校<br>國立虎尾高級農工職業學校<br>",
+          "text3": "<font face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡窗口</b></span></font><font face=\"Roboto, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>虎尾科技大學職涯發展中心  張芳瑜 小姐<br>Tel : (05) 6313081<br>Email : ksa19382@nfu.edu.tw<br>"
+        }
+      ]
+    }
+  }
+}
